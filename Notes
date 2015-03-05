@@ -1,0 +1,13 @@
+<h1>World Wide Web</h1>
+<p>> Made up of HTML Documents<br>
+> HTML = HyperText Markup Language<br>
+<h2>Major Components:</h2>
+>You -- Your Computer -- Internet -- Servers<br>
+>Servers communicate using http
+<h1>HTML</h1>
+<h2>4 Components</h2>
+> Text Content (what you see)<br>
+> Markups (what it looks like)<br>
+> References to other docs<br>
+> Links to other pages<br>
+</p>
